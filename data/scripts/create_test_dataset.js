@@ -23,7 +23,7 @@ db.review.aggregate(
 // Scenario 2: How to make Test dataset ?
 
 use dataset;
-db.review.aggregate(
+db.review_test.aggregate(
    [
      { 
        $group : { 
@@ -38,7 +38,7 @@ db.review.aggregate(
                 } 
      },
      { 
-       $limit: 10000 
+       $out: "review_group" 
      }
    ],
     {
