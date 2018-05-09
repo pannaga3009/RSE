@@ -16,4 +16,5 @@ with open('summary.csv', 'r') as f:
         # Increase the row number
         rowNr = rowNr + 1
 
-print (list[0])
+for i in range(0,10):
+    print(list[i][2])

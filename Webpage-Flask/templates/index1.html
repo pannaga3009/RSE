@@ -24,8 +24,8 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('static/te1.jpg');
-    min-height: 100%;
+    background-image: url('static/summ.jpg');
+    min-height: 60%;
 }
 
 
@@ -53,10 +53,11 @@ body, html {
 
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
-  <h3 class="w3-center">Summary</h3>
+  <h3 class="w3-center"><b><ul>Summary</ul></b></h3>
   <div class="table">
+    <br>
     {% block body %}
-    {{ data|safe }}
+    {{ data }}
     {% endblock %}
   </div>
 
