@@ -1,16 +1,25 @@
 {  
    "summaries":[  
       {  
-         "Rank_1":"The food is amazing and the taste lives up to the price. Definitely recommended coming here for any day of the week. Great place to go for breakfast, lunch or dinner. Even the simplest looking dishes tastes very delicious. The food portion is perfect and scrumptious. Overall very delightful and highly recommended."
+         "Rank_1":"The food is best and the taste lives up to the price. Definitely recommended coming here for any day of the week. Great place to go for breakfast, lunch or dinner. Even the simplest looking dishes tastes very delicious. The food portion is perfect and scrumptious.The presentation of food was mind blowing.Overall very delightful and highly recommended."
+      },
+        { 
+          "Rank_2": 
+"Great variety of dishes.Super fresh meat and veggies with good portion! .The place was very pleasant and food hygiene was well maintained .Customers had one of the great experience.I had in a while.The taste and presentation of food was mouth-watering. Must try!"
+
+ },
+      {  
+         "Rank_3":"The food is pretty good. Few people have enjoyed it while some have not. The taste and presentation of food is good but it is a little pricey. Few times the orders brought in were wrong but it is worth trying. Some dishes were amazing and some were okay. Neat concept of food .Worth trying it for your own personal experience."
       },
       {  
-         "Rank_2":"The food is pretty good. Few people have enjoyed it while some have not. The taste and presentation of food is good but it is a little pricey. Few times the orders brought in were wrong but it is worth trying. Some dishes were amazing and some were bland. Neat concept of food .Worth trying it for your own personal experience."
+         "Rank_4":"The food is just average. They serve decent food .Couple of dishes were good and few were not up to the mark. Pretty expensive and portions were also little. Some dishes lacked the authenticity and seasoning. The food is not consistent every day, making it good on few days and bad on the others."
       },
       {  
-         "Rank_3":"The food is just average. They serve decent food .Couple of dishes were good and few were not up to the mark. Pretty expensive and portions were also little. Some dishes lacked the authenticity and seasoning. The food is not consistent every day, making it good on few days and bad on the others."
-      },
+         "Rank_5":"The food is bland . Sometimes dishes were served overcooked. Inconsistent menu and misuse of fancy ingredients.Iconic dishes were ruined. Shobby presentation of food and disgusting taste.Too many canned vegetables were served which is very unhealthy and allergy prone. Really dissapointed by the overall exposure." 
+          },
+             
       {  
-         "Rank_4":"The food is absolutely bad. Terrible experience. Such a waste of money .Food is not even up to the hygiene mark. Don’t bother eating anything because the food and price both is ridiculous. Portions served were very little. Crowd hates the food and drinks. Most of the food has zero taste and does not look appetizing at all .Definitely not recommended."
+         "Rank_6":"The food is absolutely bad. Terrible experience. Such a waste of money .Food is not even up to the hygiene mark. Don’t bother eating anything because the food and price both is ridiculous. Portions served were very little. Crowd hates the food and drinks. Most of the food has zero taste and does not look appetizing at all .Definitely not recommended."
       }
    ]
 }
