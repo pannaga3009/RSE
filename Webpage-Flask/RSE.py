@@ -93,6 +93,4 @@ def get_output():
     return res
 
 res = get_output()
-for r in res:
-    r.print_summary()
 

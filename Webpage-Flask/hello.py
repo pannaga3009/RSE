@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 import tablib
+from RSE import get_output
 import os
 import csv
 app = Flask(__name__)
@@ -21,6 +22,11 @@ with open('summary.csv', 'r') as f:
 @app.route("/")
 def index():
    return render_template("index.html")
+
+#initial landing page
+@app.route("/all")
+def all():
+   return render_template("all.html", restaurant = get_output())
 
 #on button click redirected page
 @app.route('/result',methods = ['POST', 'GET'])

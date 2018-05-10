@@ -1,0 +1,13 @@
+<title>{% block title %}{% endblock %}</title>
+<ul>
+    {% for r in restaurant %}
+       <li> {{ r.bid }} </li>
+       <li> {{ r.overall }} </li>
+       <li> {{ r.summary }} </li>
+        <ul>
+            {% for review in r.reviews %}
+            <li> {{ review.text }} </li>
+            {% endfor %}
+       </ul>
+    {% endfor %}
+</ul>
